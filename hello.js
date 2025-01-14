@@ -1,1 +1,1 @@
-alert('primeiro commit do projeto com issue');
+console.log('primeiro commit do projeto com issue');
